@@ -102,8 +102,6 @@ It helps stakeholders understand how different users interact with the system at
 
 Below is the use case diagram for the booking management system, illustrating the interactions between users (Customer, Admin) and the system.
 
-![Booking Management System Use Case Diagram](./alx-booking-uc.png)
-
 **Actors:**
 
 * **Customer:** Makes and manages bookings, completes payments.
